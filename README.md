@@ -3,12 +3,6 @@
 
 Full-Featured Blog with Django web framework. 
 
-Screenshots
-=
-<img src="screenshots/index.png" width=400><img src="screenshots/login.png" width=400>
-<img src="screenshots/profile.png" width=400><img src="screenshots/new_post.png" width=400>
-<img src="screenshots/post.png" width=400><img src="screenshots/delete.png" width=400>
-
 Features 
 =
 - User Registration
@@ -59,6 +53,15 @@ $ python manage.py shell
 >>> exit()
 ```
 > You can edit posts via admin panel or from current user added post.
+
+Screenshots
+=
+<img src="screenshots/index.png">
+<img src="screenshots/login.png">
+<img src="screenshots/profile.png">
+<img src="screenshots/new_post.png">
+<img src="screenshots/post_detail.png">
+<img src="screenshots/delete.png">
 
 TODOS
 =
